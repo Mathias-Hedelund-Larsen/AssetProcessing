@@ -1,0 +1,3 @@
+[submodule "GitSubmodules/EditorCoroutines"]
+	path = GitSubmodules/EditorCoroutines
+	url = https://github.com/Mathias-Hedelund-Larsen/EditorCoroutines.git
